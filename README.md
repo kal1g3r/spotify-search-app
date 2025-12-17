@@ -10,4 +10,4 @@ SPOTIFY_CLIENT_SECRET=<YOUR SPOTIFY CLIENT SECRET>
 ## You can get the ID and Secret from here - [Spotify API Docs](https://developer.spotify.com/documentation/web-api)
 
 ### Note:
-To run the app you need to install [NPM](https://nodejs.org/en/download), do ```npm i``` and then ```npm run dev``` in a terminal while working in the main directory of the app.
+To run the app you need to install [NPM](https://nodejs.org/en/download), then execute ```npm i``` and afterwards ```npm run dev``` in a terminal while working in the main directory of the app.
