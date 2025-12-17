@@ -7,4 +7,4 @@
 SPOTIFY_CLIENT_ID=<YOUR SPOTIFY CLIEND ID>
 SPOTIFY_CLIENT_SECRET=<YOUR SPOTIFY CLIENT SECRET>
 ```
-## You can get the ID and Secret from here - [https://developer.spotify.com/documentation/web-api](Spotify API Docs)
+## You can get the ID and Secret from here - [Spotify API Docs](https://developer.spotify.com/documentation/web-api)
